@@ -1,0 +1,7 @@
+meter,phase,voltage,current,pf,power_direction,var_direction
+28500183,L1,230.5,45.2,0.98,import,lagging
+28500183,L2,231.0,42.8,0.96,import,lagging
+28500183,L3,229.8,47.5,0.97,import,lagging
+36793108,L1,229.4,18.2,0.99,import,lagging
+36793108,L2,228.8,4.5,0.82,import,lagging
+36793108,L3,230.1,19.8,0.98,export,lagging
